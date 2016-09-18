@@ -29,7 +29,7 @@ namespace DES_ninor15.Task6
 
         public static bool IsPalindrome(string str)
         {
-            return str.Equals(ReverseString(str)); // Can be done for cheaper with a for loop.
+            return str.Replace(" ", "").ToLower().Equals(ReverseString(str.Replace(" ", "")).ToLower()); // Can be done for cheaper with a for loop.
         }
 
         public void Main()
