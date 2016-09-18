@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES_ninor15", "DES-ninor15/DES-ninor15.csproj", "{BDD26DE1-546E-4729-816A-EAA6CE37FD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD26DE1-546E-4729-816A-EAA6CE37FD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD26DE1-546E-4729-816A-EAA6CE37FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD26DE1-546E-4729-816A-EAA6CE37FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD26DE1-546E-4729-816A-EAA6CE37FD51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
